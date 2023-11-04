@@ -4,3 +4,10 @@ body{
     font-family: 'Roboto', sans-serif;
     font-family: 'Rubik', sans-serif;
 }
+
+.container{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    max-width: 600px;
+    margin: auto;
+}
