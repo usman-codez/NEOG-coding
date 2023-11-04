@@ -12,8 +12,12 @@ body{
     max-width: 600px;
     margin: auto;
 }
+
+hr{
+    margin: 2rem 0rem;
+}
 /* links */
-.primary-link{
+.primary-link{ 
    background-color: rgb(62, 26, 222);
    color: aliceblue;
     text-decoration: none;
@@ -27,3 +31,11 @@ body{
     border-radius: 0.5rem;
     border: 1px solid rgb(62, 26, 222)  ;
 }
+/* lists */
+ .non-bullet{
+    list-style: none;
+    padding: 0rem 0.5rem;
+ }
+ .inline{
+    display: inline;
+ }
