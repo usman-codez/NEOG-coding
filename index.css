@@ -5,9 +5,25 @@ body{
     font-family: 'Rubik', sans-serif;
 }
 
+/* container */
 .container{
     padding-left: 1rem;
     padding-right: 1rem;
     max-width: 600px;
     margin: auto;
+}
+/* links */
+.primary-link{
+   background-color: rgb(62, 26, 222);
+   color: aliceblue;
+    text-decoration: none;
+    padding: 0.5rem 3rem ;
+    border-radius: 0.5rem;
+}
+.secondary-link{
+    text-decoration: none;
+    padding: 0.5rem 3rem ;
+    color:rgb(62, 26, 222) ;
+    border-radius: 0.5rem;
+    border: 1px solid rgb(62, 26, 222)  ;
 }
