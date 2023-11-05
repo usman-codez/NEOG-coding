@@ -62,3 +62,31 @@ hr{
  .navigation .active{
     font-weight: bold;
  }
+ .hero{
+    padding: 2rem;
+    
+ }
+  .hero .hero-img{
+    max-width: 350px;
+    display: block;
+    margin: auto;
+ }
+ .hero .hero-heading{
+    padding-top: 1rem;
+   color: rgb(117, 114, 114);
+ }
+
+ /* section */
+
+ .section{
+   padding: 2rem;
+   
+ }
+ .section h1{
+   text-align: center;
+   
+ }
+ .ow{
+   background-color: rgb(222, 214, 214);
+ }
+ 
