@@ -18,6 +18,9 @@ hr{
     margin: 2rem 0rem;
 }
 /* links */
+.active{
+   font-weight: bolder;
+}
 .primary-link{ 
    background-color: rgb(62, 26, 222);
    color: aliceblue;
@@ -74,6 +77,7 @@ hr{
  }
  .hero .hero-heading{
     padding-top: 1rem;
+    text-align: center;
    color: rgb(117, 114, 114);
  }
 
