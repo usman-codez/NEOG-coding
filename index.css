@@ -13,6 +13,12 @@ body{
     max-width: 600px;
     margin: auto;
 }
+.container1{
+   padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    max-width: 800px;
+    margin: auto;
+}
 
 hr{
     margin: 2rem 0rem;
@@ -81,6 +87,11 @@ hr{
     text-align: center;
    color: rgb(117, 114, 114);
  }
+ .hero-heading1{
+   padding-top: 1rem;
+    text-align: center;
+   color: rgb(117, 114, 114);
+ }
 
  /* section */
 
@@ -109,4 +120,7 @@ footer{
    color: white;
    text-decoration: none;
 }
+ }
+ .sp{
+   color:rgb(62, 26, 222) ;
  }
